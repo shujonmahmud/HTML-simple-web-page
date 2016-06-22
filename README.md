@@ -1,5 +1,5 @@
 # Simple HTML/Web Page
-This is a simple web page on HTML. To create this page, you just need to learn the following HTML codes:
+This is a simple web page, only for the beginners who just started to learn HTML. To create this page, you will need to read the following tutorials─
 - HTML5 Doctype Declaration
 - HTML Headings
 - HTML Images
@@ -8,3 +8,5 @@ This is a simple web page on HTML. To create this page, you just need to learn t
 - HTML Text Formatting Elements
 - HTML Ordered Lists
 - HTML Unordered Lists
+You can learn the tutorials from [EgTutorial.Com](http://www.egtutorial.com/html/).
+### [Live Demo](https://egtutorial.github.io/HTML-simple-web-page/)
